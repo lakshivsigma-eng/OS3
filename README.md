@@ -1,4 +1,5 @@
-## 🌌 **daedalOS** 🌌
+## 🌌 **MYOS
+** 🌌
 
 ## _Desktop environment in the browser_
 
